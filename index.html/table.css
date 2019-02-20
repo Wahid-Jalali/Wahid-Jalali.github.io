@@ -1,0 +1,36 @@
+body {
+  background-color: #333;
+}
+div {
+  background-color: grey;
+  display: flex;
+  width: 50%;
+}
+#class {
+border-right: 3px solid red;
+  padding: 15px 15px;
+  justify-content: space-between;
+
+}
+#content {
+  color: blue;
+  width: 60%;
+  padding: 10px 10px;
+  justify-content: space-between;
+} #content h1 {
+  color: black;
+}
+footer {
+  background-color: white;
+  width: 61%;
+  display: flex;
+height: 80px;
+justify-content: space-between;
+}
+#list {
+  justify-content: space-between;
+  background-color: white;
+  width: 30%;
+  padding: 15px 15px;
+  float: right;
+}

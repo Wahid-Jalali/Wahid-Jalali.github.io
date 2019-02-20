@@ -1,0 +1,79 @@
+body {
+  background-image: url('0-24.jpg') no-repeat 100% 100%;
+}
+
+li {
+  background: gray;
+}
+li{border-color: red;
+}
+li{font-style: italic;
+}
+li {
+  text-decoration: underline;
+}
+
+li a img {
+  width: 50px;
+}
+li.special,
+li.special a {
+   color: yellow;
+}
+
+li.grid_header {
+  background-color: #D3DBE0;
+}
+
+li.grid_main {
+  background-color: green;
+}
+li {
+  color: red;
+  margin: 10px
+  padding: 40px
+  border: 5px dotted pink;
+}
+li a{
+  color: red;
+  margin: 15px;
+  pedding: 40px;
+  border: 15px;
+    }
+
+li.grid_right {
+  background-color: blue;
+}
+
+li.grid_footer {
+  background-color: green;
+}
+
+li.top-bar,
+.top-bar ul,
+.title-bar {
+  background-color: transparent;
+  color: #333;
+}
+
+li.top-bar a,
+.top-bar ul a,
+.title-bar a {
+  color: yellow;
+}
+body {
+  background-color: black;
+}
+#Wild world {
+  color: black;
+}
+#facebook-logo {
+  height: 50px;
+  width: 50px;
+}
+#instagram-logo {
+  height: 50px;
+  width: 100px;
+  right: 50px;
+  region-break-inside: auto;
+}
